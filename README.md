@@ -1,6 +1,6 @@
-#npm-test-package
+# npm-test-package
 
-#Installation
+# Installation
 
   `npm i --save shadowEffects`
 
